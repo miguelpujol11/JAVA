@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class Comprobación de edad {
+public class Main {
 public static void main(String[] args) {
 
 Scanner in = new Scanner(System.in);
